@@ -1,0 +1,9 @@
+{
+  "details": "excellent car",
+  "car_id": {
+    "$oid": "656e35a638f85b1da2e12d38"
+  },
+  "member_id": {
+    "$oid": "656e338438f85b1da2e12d36"
+  }
+}
